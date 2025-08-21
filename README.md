@@ -6,9 +6,6 @@
 ---
 
 ## ​ Usage
-
-To use this template:
-
 2. Clone it locally:
    ```bash
    git clone https://github.com/AAU-ST1-Programming/arrays_and_pointers.git
