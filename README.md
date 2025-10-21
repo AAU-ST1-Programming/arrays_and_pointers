@@ -33,6 +33,8 @@
 - [Pointers](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=b7661332-341c-40cd-8f79-b33600b7eaf5)
 - [Memory Leak](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=02747275-1fbe-445a-b623-b33600be1c07)
 - [Pantopto Videoer](https://panopto.aau.dk/Panopto/Pages/Sessions/List.aspx?folderID=5a8ac543-ee1c-48dd-b490-b2db008ceb94)
+- [Pointers Pointer Exempel](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=95775750-c8da-457c-8344-b37d009dc366)
+
 
 
 
