@@ -1,5 +1,7 @@
 # Arrays and Pointers
 
+![files/shared_overview_table.png](files/shared_overview_table.png)
+
 - **PowerPoint slideshow**: `arrays_and_pointers.pptx`
 - **Questions:** – `questions.docx` Indeholder spørgsmål som i får i forbindelsen med forlæsningen.
 - **Lecture specific files** - `files/` En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.
