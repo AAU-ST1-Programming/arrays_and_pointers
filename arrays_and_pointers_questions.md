@@ -139,7 +139,7 @@ Martin has a list of numbers and wants to add them up. *"I have these numbers: 1
 6. **PBL:** Martin asks: *"What is the sum of all positive numbers only?"*
 
 **Hints:**
-- Formula: sum = x₀ + x₁ + ... + xₙ₋₁ = ∑ₜ₌₀ⁿ⁻¹ xₜ
+- Formula: $sum = x_0 + x_1 + \dots + x_{n-1} = \sum\_{t=0}^{n-1} x_t$
 - Start with sum = 0
 - Add each element: sum += arr[i]
 
@@ -171,7 +171,7 @@ Martin now wants to calculate the average of his numbers. *"I have the sum, but 
 5. **PBL:** Martin asks: *"Can you modify the program to calculate the mean of just the positive numbers?"*
 
 **Hints:**
-- Formula: x̄ = (∑ₜ₌₀ⁿ⁻¹ xₜ) / N
+- Formula: $\bar{x} = \frac{1}{N} \sum\_{t=0}^{n-1} x_t$
 - N is the number of elements
 - Use array size: `sizeof(arr) / sizeof(arr[0])`
 
@@ -212,8 +212,8 @@ Martin wants to analyze patient data statistically. *"I have measurements for ag
 
 **Hints:**
 - You've done this before
-- Mean formula: x̄ = (∑ₜ₌₁ⁿ xₜ) / N
-- Standard deviation formula: std = √(∑ₜ₌₁ⁿ (xₜ - x̄)² / (N - 1))
+- Mean formula: $\bar{x} = \frac{1}{N} \sum\_{t=1}^{n} x_t$
+- Standard deviation formula: $s = \sqrt{\frac{1}{N-1} \sum\_{t=1}^{n} (x_t - \bar{x})^2}$
 - N_patients = 10, N_measurements = 3
 
 **What you must never do:**
