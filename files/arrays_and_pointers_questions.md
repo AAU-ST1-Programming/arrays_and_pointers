@@ -139,7 +139,7 @@ Martin har a list of numbers og wants til add them up. *"Jeg har these numbers: 
 6. **PBL:** Martin spørger: *"What is the sum of all positive numbers only?"*
 
 **Hint:**
-- Formula: $sum = x_0 + x_1 + \dots + x_{n-1} = \sum\_{t=0}^{n-1} x_t$
+- Formula: $sum = x_0 + x_1 + \dots + x_{n-1} = \sum_{t=0}^{n-1} x_{t}$
 - Start med sum = 0
 - Tilføj each element: sum += arr[i]
 
@@ -171,7 +171,7 @@ Martin now wants til calculate the average of his numbers. *"Jeg har the sum, bu
 5. **PBL:** Martin spørger: *"Kan you modify the program til calculate the mean of just the positive numbers?"*
 
 **Hint:**
-- Formula: $\bar{x} = \frac{1}{N} \sum\_{t=0}^{n-1} x_t$
+- Formula: $\bar{x} = \frac{1}{N} \sum_{t=0}^{n-1} x_t$
 - N is the number of elements
 - Brug array size: `sizeof(arr) / sizeof(arr[0])`
 
@@ -212,8 +212,8 @@ Martin ønsker at analyze patient data statistically. *"Jeg har measurements for
 
 **Hint:**
 - Du har this before
-- Mean formula: $\bar{x} = \frac{1}{N} \sum\_{t=1}^{n} x_t$
-- Standard deviation formula: $s = \sqrt{\frac{1}{N-1} \sum\_{t=1}^{n} (x_t - \bar{x})^2}$
+- Mean formula: $\bar{x} = \frac{1}{N} \sum_{t=1}^{n} x_t$
+- Standard deviation formula: $s = \sqrt{\frac{1}{N-1} \sum_{t=1}^{n} (x_t - \bar{x})^2}$
 - N_patients = 10, N_measurements = 3
 
 **Hvad du aldrig må gøre:**
